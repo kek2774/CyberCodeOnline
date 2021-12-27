@@ -4808,7 +4808,7 @@
  	 	 	 	 	"amount",
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Купить ${amount} ${itemName}",
+ 	 	 	 	"trans": "Покупка ${amount} ${itemName}",
  	 	 	 	"eng": "Buying ${amount} of ${itemName}"
  	 	 	},
  	 	 	"priceDisplay": {
@@ -4831,7 +4831,7 @@
  	 	 	"eng": "of Bargaining"
  	 	},
  	 	"power": {
- 	 	 	"trans": "власти",
+ 	 	 	"trans": "силв",
  	 	 	"eng": "of Power"
  	 	},
  	 	"health": {
@@ -4851,7 +4851,7 @@
  	 	 	"eng": "of Sneaking"
  	 	},
  	 	"evade": {
- 	 	 	"trans": "уклонение от уклонения",
+ 	 	 	"trans": "от уклонения",
  	 	 	"eng": "of Evasion"
  	 	},
  	 	"pocketed": {
@@ -4859,11 +4859,11 @@
  	 	 	"eng": "with pockets"
  	 	},
  	 	"criticalChanceArmor": {
- 	 	 	"trans": "Crit Change",
+ 	 	 	"trans": "шанса крита",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalChanceWeapon": {
- 	 	 	"trans": "Crit Change",
+ 	 	 	"trans": "шанса крита",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalDamageArmor": {
